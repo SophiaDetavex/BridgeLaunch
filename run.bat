@@ -31,7 +31,7 @@ call :MainFunc
   call "%~dp0\stbc.exe"
   "%~dp0\qres.exe" /x 2560 /y 1600
   echo Script written by SophieDev.
-  echo Hope you enjoyed your playtime, Jon :D
+  echo Hope you enjoyed your playtime, user :D
   echo Also:
   echo Resolution has been set back. Please press enter to exit.
   pause>nul
